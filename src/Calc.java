@@ -3,7 +3,6 @@ public class Calc {
         int numberA=Integer.parseInt(a);
         int numberB=Integer.parseInt(b);
         int resultInt=numberA+numberB;
-
         String result = Integer.toString(resultInt);
         return result;
     }
